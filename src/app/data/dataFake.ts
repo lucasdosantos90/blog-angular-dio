@@ -1,0 +1,20 @@
+export const dataFake = [
+    {
+        'id':'1',
+        'title':'filme',
+        'description':'descricao',
+        'photoCover':'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png'
+    },
+    {
+        'id':'2',
+        'title':'filme2',
+        'description':'descricao2',
+        'photoCover':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFsim7mJetzNBK672yN0qjry6QJot2drW_w&usqp=CAU'
+    },
+    {
+        'id':'3',
+        'title':'filme3',
+        'description':'descricao3',
+        'photoCover':'https://designshack.net/wp-content/uploads/placeholder-image.png'
+    }
+]
